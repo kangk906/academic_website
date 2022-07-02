@@ -6,6 +6,8 @@ draft: false
 featured: true
 authors:
   - Denghu Jing
+categories:
+  - Other
 image:
   filename: img_20191201_112105r.jpg
   focal_point: Smart
