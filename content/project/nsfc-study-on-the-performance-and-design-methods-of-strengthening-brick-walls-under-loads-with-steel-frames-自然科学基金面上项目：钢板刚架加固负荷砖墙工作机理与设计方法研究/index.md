@@ -6,6 +6,8 @@ draft: false
 featured: true
 authors:
   - Denghu Jing
+tags:
+  - Other
 categories:
   - Other
 image:
