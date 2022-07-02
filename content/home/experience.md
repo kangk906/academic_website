@@ -25,7 +25,7 @@ experience:
   - title: Assistant of senior engineer
     company: China Overseas Property (中海地产南京公司)
     company_url: 'https://www.coli688.com/'
-    company_logo: org-gc
+    company_logo: 2021-logox2-new2
     location: Nanjing
     date_start: '2019-07-01'
     date_end: '2019-09-01'
