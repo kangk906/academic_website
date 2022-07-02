@@ -25,7 +25,7 @@ abstract: "Concrete carbonation is known as a stochastic process. Its
   carbonation test datasets. For natural carbonation datasets, the mean absolute
   error of the practical model was 1.56 mm."
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
