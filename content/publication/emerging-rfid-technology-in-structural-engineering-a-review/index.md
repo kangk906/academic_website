@@ -23,7 +23,7 @@ abstract: "Radio frequency identification (RFID) has become a hot topic in
   information on the comprehension of the applications of RFID in structural
   engineering."
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
