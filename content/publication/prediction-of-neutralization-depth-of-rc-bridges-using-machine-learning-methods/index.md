@@ -22,7 +22,7 @@ abstract: Machine learning techniques have become a popular solution to
   recall rate (86%). Besides this, the preference of different methods is
   revealed in this study.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
