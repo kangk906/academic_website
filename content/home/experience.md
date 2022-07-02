@@ -25,16 +25,16 @@ experience:
   - title: Assistant of senior engineer
     company: China Overseas Property (中海地产南京公司)
     company_url: 'https://www.coli688.com/'
-    company_logo: 2021-logox2-new2
+    company_logo: org-gc
     location: Nanjing
     date_start: '2019-07-01'
     date_end: '2019-09-01'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Construction schedule control
+        * Construction quality inspection
+        * Other things involve construction
 
 
 design:
