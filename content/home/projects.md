@@ -27,8 +27,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Machine Learning
+      tag: Demo
+    - name: Robotics
+      tag: Demo
+    - name: VR/AR
+      tag: Demo
     - name: Other
       tag: Demo
 
