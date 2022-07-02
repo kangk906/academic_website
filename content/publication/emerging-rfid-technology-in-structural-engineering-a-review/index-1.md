@@ -4,7 +4,6 @@ title: Experimental research on the shear behavior of brick walls reinforced
 publication_types:
   - "2"
 authors:
-  - Hou Yonghui
   - admin
   - Cao Shuang-Yin
   - et al
