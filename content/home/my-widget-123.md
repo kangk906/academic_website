@@ -1,8 +1,9 @@
 ---
-widget: talks
-widget_id: my-widget-123
+widget: pages
+widget_id: talks
 headless: true
 weight: 10
+title: Recent Talks
 active: true
 design:
   columns: "2"
