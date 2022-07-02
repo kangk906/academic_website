@@ -30,10 +30,10 @@ education:
       year: ""
     - course: MASc in Civil Engineering
       institution: Southeast University
-      year: 2
+      year: 2022
     - course: BSc in Civil Engineering
       institution: Southeast University
-      year: 3
+      year: 2019
 email: kangk01.cee@gmail.com
 superuser: true
 user_groups:
