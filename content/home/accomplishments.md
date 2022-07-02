@@ -26,7 +26,7 @@ item:
 
   - certificate_url: https://civil.seu.edu.cn/main.htm
     date_end: ''
-    date_start: '2020-05-15'
+    date_start: '2022-05-15'
     description: ''
     organization: Southeast University
     organization_url: https://www.seu.edu.cn/
@@ -62,6 +62,15 @@ item:
     
   - certificate_url: https://civil.seu.edu.cn/main.htm
     date_end: ''
+    date_start: '2021-04-13'
+    description: ''
+    organization: Southeast University
+    organization_url: https://www.seu.edu.cn/
+    title: 'Excellent Communist Member (Graduate Student) of Southeast University  (东南大学优秀研究生共产党员)'
+    url: '' 
+    
+  - certificate_url: https://civil.seu.edu.cn/main.htm
+    date_end: ''
     date_start: '2019-10-13'
     description: ''
     organization: Southeast University
@@ -69,6 +78,14 @@ item:
     title: 'First-class Academic Scholarship (东南大学一等学业奖学金)'
     url: '' 
     
+  - certificate_url: https://civil.seu.edu.cn/main.htm
+    date_end: ''
+    date_start: '2017-09-06'
+    description: ''
+    organization: School of Civil Engineering, Southeast University
+    organization_url: https://civil.seu.edu.cn/main.htm
+    title: 'The First Prize of The 16th Structural Design Competition of Southeast University'
+    url: ''     
 design:
   columns: '2'
 ---
