@@ -2,8 +2,7 @@
 title: Duan, Kangkang
 role: PhD Student of Civil Engineering
 avatar_filename: avatar.jpg
-bio: My research interests include robotics, artificial intelligence, AR/VR, and
-  physical machine learning.
+bio: Kangkang is an PhD student in the ICON Laboratory at the University of British Columbia. Previously, he received his BSc degree in Highway and Bridge Engineering from Southeast University (Mao Yisheng Class) in 2019. Then, he received his MASc degree in Civil Engineering from Southeast University in 2022. His research interests include robotics, artificial intelligence, AR/VR, and physical machine learning.
 interests:
   - Artificial Intelligence
   - Robotics
@@ -42,4 +41,4 @@ highlight_name: true
 ---
 My research interests include robotics, artificial intelligence, AR/VR, and physical machine learning.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
