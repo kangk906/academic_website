@@ -6,7 +6,7 @@ authors:
   - admin
   - Cao Shuangyin
   - et al
-publication: In *Journal of Building Engineering (Under revision)*
+publication: In *Journal of Building Engineering*
 abstract: "The durability of materials has long been a hot topic in civil
   engineering. This paper used a new approach to foster current research in two
   aspects: identifying important properties of concrete and simulating the
