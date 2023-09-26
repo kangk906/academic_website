@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: kangk01.cee@gmail.com
-  phone: +86 17612540300
+  phone: 778 251 7168
   address:
     street: 2329 West Mall
     city: Vancouver
